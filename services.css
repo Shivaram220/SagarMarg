@@ -256,7 +256,8 @@ html {
   flex: 1;
   background-color: white;
   max-width: 100%;
-  height: 90%; 
+/*   height: 90%;  */
+    height:600px;
   margin: 0 20px; 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.479);
   border-radius: 8px; 
@@ -319,7 +320,7 @@ html {
     color: #fff;
   }
 
-.icon {
+/* .icon {
     width: 140px; 
     height: 120px; 
     margin-bottom: 350px;
@@ -332,17 +333,22 @@ html {
 }
 
 .icon3 {
-    width:150px; /* Corrected width value */
+    width:150px;
     height: 130px; 
     margin-bottom: 340px; 
-}
+} */
 
-.icon4 {
-    width: 140px; /* Corrected width value */
+/* .icon4 {
+    width: 140px; 
     height: 150px; 
     margin-bottom: 265px; 
 }
-
+ */
+.icon,.icon2,.icon3 {
+    width: 180px;
+    height: 180px; 
+    margin-bottom: 350px; 
+}
 
 h3 {
     margin-top: 0;
