@@ -221,7 +221,7 @@ html {
 
   .services-section {
     width: 100%;
-    height: 900vh; 
+/*     height: 900vh;  */
     background-color: #2b3287;
     position: relative;
     margin-top: 70px;
